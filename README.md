@@ -24,7 +24,7 @@
   <li><a href="#key-insights">💡 Key Insights</a></li>
   <li><a href="#dashboard--output">📊 Dashboard / Output</a></li>
   <li><a href="#sql-analysis-highlights">🗄 SQL Analysis Highlights</a></li>
-  <li><a href="#links">🔗 Project Links</a></li>
+  <li><a href="#project-links">🔗 Project Links</a></li>
   <li><a href="#results--conclusion">📈 Results & Conclusion</a></li>
   <li><a href="#future-work">🚀 Future Work</a></li>
   <li><a href="#author--contact">👤 Author & Contact</a></li>
