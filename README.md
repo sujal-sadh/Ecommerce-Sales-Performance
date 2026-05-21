@@ -346,8 +346,8 @@ FROM ranked;
 
   <li>🧾 <a href="./script/ecommerce_sales_performance.sql">SQL Script</a></li>
 
-  <li>👤 <a href="https://www.linkedin.com/in/sujal-sadh/" target="_blank">LinkedIn</a></li>
-
+  <li>👤 <a href="https://www.linkedin.com/in/sujal-sadh-9aa902388/" target="_blank">LinkedIn Profile</a></li>
+  
   <li>📧 <a href="mailto:sujalsadh113@gmail.com">sujalsadh113@gmail.com</a></li>
 </ul>
 
