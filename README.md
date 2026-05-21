@@ -337,13 +337,18 @@ FROM ranked;
 
 <hr>
 
-## 🔗 Project Links
+<h2 id="project-links">🔗 Project Links</h2>
 
-- 📂 [GitHub Repository](https://github.com/sujal-sadh/Ecommerce-Sales-Performance)
-- 📊 Power BI Dashboard (`dashboard.pbix`)
-- 🧮 [SQL Script](./script/ecommerce_sales_performance.sql)
-- 👤 [LinkedIn](https://www.linkedin.com/in/sujal-sadh-9aa902388/)
-- 📧 Email: sujalsadh113@gmail.com
+<ul>
+  <li>📁 <a href="https://github.com/sujal-sadh/Ecommerce-Sales-Performance" target="_blank">GitHub Repository</a></li>
+
+  <li>📊 <a href="./dashboard/dashboard.pbix">Power BI Dashboard (dashboard.pbix)</a></li>
+
+  <li>🧾 <a href="./script/ecommerce_sales_performance.sql">SQL Script</a></li>
+
+  <li>👤 <a href="https://www.linkedin.com/in/sujal-sadh/" target="_blank">LinkedIn</a></li>
+
+  <li>📧 <a href="mailto:sujalsadh113@gmail.com">sujalsadh113@gmail.com</a></li>
 </ul>
 
 <hr>
