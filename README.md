@@ -289,13 +289,13 @@ Amazon E-Commerce Dataset — Kaggle
 <p><b>Files:</b></p>
 
 <ul>
-  <li><code>Ecommerce_Sales_Dashboard.pbix</code> — Interactive Power BI Dashboard</li>
-  <li><code>sql_script.sql</code> — SQL analysis and transformations</li>
+  <li><code>dashboard.pbix</code> — Interactive Power BI Dashboard</li>
+  <li><code>ecommerce_sales_performance.sql</code> — SQL analysis and transformations</li>
 </ul>
 
 <p><b>Dashboard Preview:</b></p>
 
-<img src="./Images/dashboard.png" alt="Dashboard Screenshot" width="1000">
+<img src="./screenshots/dashboard.png" alt="Dashboard Screenshot" width="1000">
 
 <hr>
 
