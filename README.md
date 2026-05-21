@@ -340,7 +340,7 @@ FROM ranked;
 ## 🔗 Project Links
 
 - 📂 [GitHub Repository](https://github.com/sujal-sadh/Ecommerce-Sales-Performance)
-- 📊 Power BI Dashboard (.pbix)
+- 📊 Power BI Dashboard (dashboard.pbix)
 - 🧮 [SQL Script](./script/ecommerce_sales_performance.sql)
 - 👤 [LinkedIn](https://www.linkedin.com/in/sujal-sadh-9aa902388/)
 - 📧 Email: sujalsadh113@gmail.com
