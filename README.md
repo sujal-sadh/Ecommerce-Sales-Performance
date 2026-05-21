@@ -384,8 +384,9 @@ FROM ranked;
 </p>
 
 <ul>
-  <li>📧 sujalsadh113@gmail.com</li>
-  <li>👤 LinkedIn Profile</li>
+  <li>📧 <a href="mailto:sujalsadh113@gmail.com">sujalsadh113@gmail.com</a></li>
+
+  <li>👤 <a href="https://www.linkedin.com/in/sujal-sadh/" target="_blank">LinkedIn Profile</a></li>
 </ul>
 
 <hr>
